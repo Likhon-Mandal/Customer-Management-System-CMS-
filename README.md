@@ -61,7 +61,7 @@ We can search for customers using their details in branch mode.
 
 # project Graph
 
-![project graph bl](https://github.com/Likhon-Mandal/Customer-Management-System-CMS-/assets/143075280/d6235511-5be8-4699-8651-b6b1e05aec36)
+![project graph bl](https://github.com/Likhon-Mandal/Customer-Management-System-CMS-/assets/143075280/83ff3404-e645-4394-b1e5-a7c8db855086)
 
 
 
@@ -74,34 +74,35 @@ We can search for customers using their details in branch mode.
 
 
 
-
 # SCREENSHOTS
 
  #### OPEN PAGE 
-![Screenshot 2023-10-19 225320](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/82568d33-2fdf-4f25-9483-d593eaafd0e8)
+
+![Screenshot 2023-10-19 225320](https://github.com/Likhon-Mandal/Customer-Management-System-CMS-/assets/143075280/310fa6d3-cf60-45a4-9700-b4c7169b7bff)
 
 #### LOGIN PAGE
-![Screenshot 2023-10-19 225623](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/6ac3fdad-8493-4d87-abb3-cbf89b20c1aa)
+![Screenshot 2023-10-19 225623](https://github.com/Likhon-Mandal/Customer-Management-System-CMS-/assets/143075280/145d7f7f-2acf-447c-a0bc-571ddd73416b)
 
  #### ADMIN MODE
-![Screenshot 2023-10-19 225634](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/52dcd41c-f2b8-4b46-9e31-465e4ed7a0dd)
+![Screenshot 2023-10-19 225634](https://github.com/Likhon-Mandal/Customer-Management-System-CMS-/assets/143075280/f04a0e20-5b1a-4473-a408-f3808d5b2724)
 
 #### SHOW BRANCH
-![Screenshot 2023-10-19 230232](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/e99d9cab-64fa-471b-9773-0783c6d857e3)
+![Screenshot 2023-10-19 230232](https://github.com/Likhon-Mandal/Customer-Management-System-CMS-/assets/143075280/c9d0b049-126d-48e8-8caf-7de70cb602ac)
 
  #### BRANCH MODE
-![Screenshot 2023-10-19 225634](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/52dcd41c-f2b8-4b46-9e31-465e4ed7a0dd)
+![Screenshot 2023-10-20 001307](https://github.com/Likhon-Mandal/Customer-Management-System-CMS-/assets/143075280/cd392c6a-75b7-46ff-89be-0474fa760a55)
 
 #### CUSTOMER DETAILS
-![Screenshot 2023-10-19 230554](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/d78a137a-9dda-406c-a976-7f07ba5562a7)
+![Screenshot 2023-10-19 230554](https://github.com/Likhon-Mandal/Customer-Management-System-CMS-/assets/143075280/3acc927a-7288-42a6-ab08-8dd8b23826bd)
 
  #### BRANCH.TXT FILE
-![Screenshot 2023-10-19 231314](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/8ebfd4ce-4a30-414e-bbde-b72c008461a8)
+![Screenshot 2023-10-19 231314](https://github.com/Likhon-Mandal/Customer-Management-System-CMS-/assets/143075280/9ba084b6-fe31-48f3-8b82-b73d081e0e59)
 
 
  #### CUSTOMER.TXT FILE
  
-![Screenshot 2023-10-19 231301](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/21fad6b8-e6c4-4c5d-b168-c48a2a14ff56)
+![Screenshot 2023-10-19 231301](https://github.com/Likhon-Mandal/Customer-Management-System-CMS-/assets/143075280/4f50f586-969b-4e3e-9dbc-06286c7a46da)
+
 
 
 
@@ -980,6 +981,6 @@ branch_open_page();
 
 
 
-
+# THANK YOU
 
 
