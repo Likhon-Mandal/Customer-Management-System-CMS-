@@ -61,7 +61,7 @@ We can search for customers using their details in branch mode.
 
 # project Graph
 
-![project graph bl](https://github.com/Yeamin-Talukder/-Customer-Management-System-CMS-/assets/61332874/3b90dba1-3b3a-4a01-b6cf-9aa76f2b4469)
+![project graph bl](https://github.com/Likhon-Mandal/Customer-Management-System-CMS-/assets/143075280/d6235511-5be8-4699-8651-b6b1e05aec36)
 
 
 
